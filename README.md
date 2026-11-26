@@ -16,7 +16,20 @@ to improve my technical and analytical skills.
 *Curious mind. Analytical thinking. Continuous growth.*
 
 </div>
+<br><br>
 
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat&color=blue" alt="Profile Views"/>
+
+</div>
 ---
 
 ## 🙋‍♀️ A Little About Me
