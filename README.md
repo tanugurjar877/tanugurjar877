@@ -15,7 +15,7 @@ to improve my technical and analytical skills.
 
 *Curious mind. Analytical thinking. Continuous growth.*
 
-</div>
+
 <br><br>
 
 <a href="https://github.com/YOUR-USERNAME">
